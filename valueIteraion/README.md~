@@ -1,0 +1,9 @@
+Value Iteration
+================
+
+## How to run the program
+
++ Run the following command
+python run.py -d <Default Reward>
+
+<Default Reward> can be either 0 or -1
